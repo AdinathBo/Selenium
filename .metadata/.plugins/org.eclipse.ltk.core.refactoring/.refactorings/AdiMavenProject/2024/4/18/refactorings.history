@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;javapackage.Stastic2.java&apos; to &apos;Static2.java&apos;&#x0D;&#x0A;- Original project: &apos;AdiMavenProject&apos;&#x0D;&#x0A;- Original element: &apos;javapackage.Stastic2.java&apos;&#x0D;&#x0A;- Renamed element: &apos;javapackage.Static2.java&apos;" description="Rename compilation unit &apos;Stastic2.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;javapackage{Stastic2.java" name="Static2.java" references="false" stamp="1714307404305" version="1.0"/>
+</session>

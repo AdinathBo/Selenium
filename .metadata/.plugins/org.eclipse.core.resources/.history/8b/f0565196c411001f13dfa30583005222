@@ -1,0 +1,28 @@
+package javapackage;
+
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class WebTable2 {
+
+	public static void main(String[] args) {
+
+		        // Initialize the WebDriver
+		        WebDriver driver = new ChromeDriver();
+
+		        // Open the web page containing the table
+		        driver.get("https://money.rediff.com/gainers");
+		        
+		        // 1 row and 3 column
+		        int wt = driver.findElements(By.xpath("//table[@class='dataTable']/tbody/tr[1]/td[3]")).size();
+		        System.out.println(wt);
+
+		        
+		    }
+}
+
+	
+
+

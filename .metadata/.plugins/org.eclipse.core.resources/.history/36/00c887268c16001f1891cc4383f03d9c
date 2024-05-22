@@ -1,0 +1,20 @@
+package study.IMP;
+
+public class WithoutSemicolon {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		if(System.out.printf("hello world") == null) {
+			
+		}
+		
+		if(System.out.append("hello world 1") == null) {
+			
+		}
+		if(System.out.append("hello world 2").equals(null)) {
+			
+		}
+	}
+
+}
